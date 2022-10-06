@@ -25,9 +25,9 @@
     "qrcode": "^1.5.0",
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
-    "sharp": "^0.29.3",
+    "sharp": "^0.30.5",
     "spinnies": "^0.5.1",
-    "wa-sticker-formatter": "^4.2.0",
+    "wa-sticker-formatter": "^4.3.0",
     "yt-search": "^2.10.3"
   }
 }
