@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "^4.0.0",
     "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10",
     "colors": "^1.4.0",
